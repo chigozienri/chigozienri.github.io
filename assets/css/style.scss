@@ -6,5 +6,9 @@
 @import "{{ site.theme }}";
 
 header {
+    background-image:url("https://chigozienri.github.io/banner.jpg");
+}
+
+header.container {
     display: none;
 }
