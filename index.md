@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Chigozie Nri
 
-You can use the [editor on GitHub](https://github.com/chigozienri/chigozienri.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Chigozie Nri is writing tools to help generate in collaboration with AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Work
+- [VQGAN CLIP Animations](https://github.com/chigozienri/VQGAN-CLIP-animations) ([Try on Colab](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb)): A notebook that creates AI-generated animations. Originated the keyframe system of animation now used by most AI animation notebooks
+- [Audio Keyframe Generator](https://audio-keyframe-generator.glitch.me/): An online tool that helps to create audio-reactive animations
+- [Keyframe String Generator](https://keyframe-string-generator.glitch.me/): An online visual editor to help generate keyframe strings
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chigozienri/chigozienri.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/chigozienri.svg?style=social&label=Follow%20%40chigozienri)](https://twitter.com/chigozienri)
