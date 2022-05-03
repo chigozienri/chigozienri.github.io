@@ -1,6 +1,6 @@
 ## Chigozie Nri
 
-Chigozie Nri is writing tools to help generate in collaboration with AI.
+Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 
 ### Work
 - [VQGAN CLIP Animations](https://github.com/chigozienri/VQGAN-CLIP-animations) ([Try on Colab](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb)): A notebook that creates AI-generated animations. Originated the keyframe system of animation now used by most AI animation notebooks
