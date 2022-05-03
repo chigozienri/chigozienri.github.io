@@ -7,8 +7,11 @@
 
 header {
     background-image:url("https://chigozienri.github.io/banner.jpg");
+    height: 6em;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
 
-header.container {
+header > .container {
     display: none;
 }
