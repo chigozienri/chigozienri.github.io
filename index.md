@@ -8,12 +8,19 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - [Keyframe String Generator](https://keyframe-string-generator.glitch.me/): An online visual editor to help generate keyframe strings
 
 ### Art
-- Releases in progress, some existing work available on [twitter](https://twitter.com/chigozienri)
+- Selected work available on [twitter](https://twitter.com/chigozienri), other releases pending
 
-### Art by others
+### Notable uses by other people
 - [Ben Levin](https://www.youtube.com/watch?v=AIUFNADtK3w): "some of the most incredible AI-generated art and music I've seen yet" - Adam Neely
 - [Glitch Black](https://www.instagram.com/p/CVzEuB6lJjR/)
 - [Dirtmill](https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw)
+
+### Toys
+- [Slide Roulette](https://slide-roulette.glitch.me/): Present an AI-generated slide deck you've never seen before
+- [Powerpoint Karaoke](https://slide-roulette.glitch.me/karaoke): Pull a random powerpoint from the internet
+- [Rewordle](https://rewordle.glitch.me/): Replay old wordles
+- [Invisidle](https://invisidle.glitch.me/): Play wordle with disappearing guesses
+- [Gootsle](https://gootsle.glitch.me/): Goots
 
 ### Socials
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter URL" height="20pt"/> @chigozienri](https://twitter.com/chigozienri) 
