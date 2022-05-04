@@ -8,5 +8,5 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - [Keyframe String Generator](https://keyframe-string-generator.glitch.me/): An online visual editor to help generate keyframe strings
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter URL" height="20pt"/> @chigozienri](https://twitter.com/chigozienri) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub URL" height="20pt"/> @chigozienri](https://github.com/chigozienri) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub URL" height="20pt" style="background-color:white"/> @chigozienri](https://github.com/chigozienri) 
 [<img src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" alt="Ko-Fi URL" height="20pt"/> @chigozie](https://ko-fi.com/chigozie)
