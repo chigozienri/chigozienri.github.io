@@ -16,11 +16,14 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - [Dirtmill](https://www.youtube.com/channel/UCToztRy9FSTIhEen_1x4FAw)
 
 ### Toys
-- [Slide Roulette](https://slide-roulette.glitch.me/): Present an AI-generated slide deck you've never seen before
-- [Powerpoint Karaoke](https://slide-roulette.glitch.me/karaoke): Pull a random powerpoint from the internet
-- [Rewordle](https://rewordle.glitch.me/): Replay old wordles
-- [Invisidle](https://invisidle.glitch.me/): Play wordle with disappearing guesses
-- [Gootsle](https://gootsle.glitch.me/): Goots
+- Party games
+  - [Slide Roulette](https://slide-roulette.glitch.me/): Present an AI-generated slide deck you've never seen before
+  - [Powerpoint Karaoke](https://slide-roulette.glitch.me/karaoke): Pull a random powerpoint from the internet
+- Wordle Variations
+  - [Rewordle](https://rewordle.glitch.me/): Replay old wordles
+  - [Invisidle](https://invisidle.glitch.me/): Play wordle with disappearing guesses
+  - [Gootsle](https://gootsle.glitch.me/): Goots
+  - [Dolphin wordle](https://dolphin-wordle.glitch.me/): EEEEE
 
 ### Socials
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter URL" height="20pt"/> @chigozienri](https://twitter.com/chigozienri) 
