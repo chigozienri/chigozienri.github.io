@@ -8,6 +8,7 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - [Keyframe String Generator](https://keyframe-string-generator.glitch.me/): An online visual editor to help generate keyframe strings
 
 ### Art
+- [Spacious Spatiality Gallery](https://semf.org.es/spatiality/gallery.html#6)
 - Selected work available on [twitter](https://twitter.com/chigozienri), other releases pending
 
 ### Notable uses by other people
@@ -19,6 +20,7 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - Party games
   - [Slide Roulette](https://slide-roulette.glitch.me/): Present an AI-generated slide deck you've never seen before
   - [Powerpoint Karaoke](https://slide-roulette.glitch.me/karaoke): Pull a random powerpoint from the internet
+  - [V roasts your coffee](https://v-roasts.glitch.me/): Get your coffee order roasted
 - Wordle Variations
   - [Rewordle](https://rewordle.glitch.me/): Replay old wordles
   - [Invisidle](https://invisidle.glitch.me/): Play wordle with disappearing guesses
