@@ -12,7 +12,7 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 - Selected work available on [twitter](https://twitter.com/chigozienri), other releases pending
 
 ### Talks
-- [Spacious Spatiality 2022](https://www.youtube.com/watch?t=2645)
+- [Spacious Spatiality 2022](https://youtu.be/nGvl9Ee4jL4?t=2658)
 
 ### Notable uses by other people
 - [Ben Levin](https://www.youtube.com/watch?v=AIUFNADtK3w): "some of the most incredible AI-generated art and music I've seen yet" - Adam Neely
