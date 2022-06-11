@@ -4,8 +4,8 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
 
 ### Released code
 - [VQGAN CLIP Animations](https://github.com/chigozienri/VQGAN-CLIP-animations) ([Try on Colab](https://colab.research.google.com/github/chigozienri/VQGAN-CLIP-animations/blob/main/VQGAN-CLIP-animations.ipynb)): A notebook that creates AI-generated animations. Originated the keyframe system of animation now used by most AI animation notebooks
-- [Audio Keyframe Generator](https://audio-keyframe-generator.glitch.me/): An online tool that helps to create audio-reactive animations
-- [Keyframe String Generator](https://keyframe-string-generator.glitch.me/): An online visual editor to help generate keyframe strings
+- [Audio Keyframe Generator](https://chigozie.co.uk/audio-keyframe-generator): An online tool that helps to create audio-reactive animations
+- [Keyframe String Generator](https://chigozie.co.uk/keyframe-string-generator): An online visual editor to help generate keyframe strings
 
 ### Art
 - [Spacious Spatiality Gallery](https://semf.org.es/spatiality/gallery.html#6)
@@ -25,10 +25,10 @@ Chigozie Nri is writing tools to help generate art in collaboration with AIs.
   - [Powerpoint Karaoke](https://slide-roulette.glitch.me/karaoke): Pull a random powerpoint from the internet
   - [V roasts your coffee](https://v-roasts.glitch.me/): Get your coffee order roasted
 - Wordle Variations
-  - [Rewordle](https://rewordle.glitch.me/): Replay old wordles
-  - [Invisidle](https://invisidle.glitch.me/): Play wordle with disappearing guesses
-  - [Gootsle](https://gootsle.glitch.me/): Goots
-  - [Dolphin wordle](https://dolphin-wordle.glitch.me/): EEEEE
+  - [Rewordle](https://chigozie.co.uk/rewordle): Replay old wordles
+  - [Invisidle](https://chigozie.co.uk/invisidle): Play wordle with disappearing guesses
+  - [Gootsle](https://chigozie.co.uk/gootsle): Goots
+  - [Dolphin wordle](https://chigozie.co.uk/dolphin-wordle): EEEEE
 
 ### Socials
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter URL" height="20pt"/> @chigozienri](https://twitter.com/chigozienri) 
